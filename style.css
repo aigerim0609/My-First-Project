@@ -1,0 +1,14 @@
+.item{
+    border: 1px solid;
+    padding: 30px;
+    margin-top: 20px;
+}
+.one{
+    background-color: aqua;
+}
+.container{
+    display:grid ;
+   grid-template-columns:50% 50%;
+   grid-gap: 40px;
+   grid-auto-rows: 50px;
+}  
